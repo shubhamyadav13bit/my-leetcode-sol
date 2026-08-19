@@ -4,7 +4,7 @@ Questions which I submit and get accepted are here. Also here to familiarize wit
 # My LeetCode Solutions in C
 
 > Last Updated: 19 Aug, 2026
-> Total Problems: 1 | Total Quests: 0
+> | Total Problems: 1 | Total Quests: 0
 
 ---
 
