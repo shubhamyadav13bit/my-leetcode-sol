@@ -26,7 +26,6 @@ Questions which I submit and get accepted are here. Also here to familiarize wit
 - [Linked List](#linked-list)
 - [Tree](#tree)
 - [Dynamic Programming](#dynamic-programming)
-- [Add more topics as needed]
 
 ---
 
