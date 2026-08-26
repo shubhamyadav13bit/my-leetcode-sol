@@ -3,8 +3,8 @@ All my Leetcode code written in C (Only language i know) dumped here to familiar
 
 # My LeetCode Solutions in C
 
-> Last Updated: 19 Aug, 2026
-> | Solved Problems here: 2 | Solved Quest Problems here: 1
+> Last Updated: 26 Aug, 2026
+> | Solved Problems here: 3 | Solved Quest Problems here: 1
 > | Unsolved Problems here: 2 | Unsolved Quest Problems here: 1
 
 ---
@@ -15,6 +15,7 @@ All my Leetcode code written in C (Only language i know) dumped here to familiar
 |---|---------|------------|-------|------|
 | 486 | [Predict the Winner](https://leetcode.com/problems/predict-the-winner/description/) | Medium | Array, Dynamic Programming, Recursion, Minimax | [486_predict_the_winner.c](./solved_leetcode/486_predict_the_winner.c)
 | 1386 | [Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation/description/) | Medium | Array, Sorting, Bit Manipulation | [1386_cinema_seat_allocation.c](./solved_leetcode/1386_cinema_seat_allocation.c)
+| 2904 | [Shortest and Lexicographically Smallest Beautiful String](https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/) | Medium | String, Sliding Window, Two Pointers, Substring, Lexicographical Order | [leetcode_2904.c](./solved_leetcode/leetcode_2904.c)
 
 ---
 
