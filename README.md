@@ -4,7 +4,7 @@ All my Leetcode code written in C (Only language i know) dumped here to familiar
 # My LeetCode Solutions in C
 
 > Last Updated: 4 Sept, 2026
-> | Solved Problems here: 4 | Solved Quest Problems here: 1
+> | Solved Problems here: 6 | Solved Quest Problems here: 1
 > | Unsolved Problems here: 2 | Unsolved Quest Problems here: 1
 
 ---
@@ -13,6 +13,8 @@ All my Leetcode code written in C (Only language i know) dumped here to familiar
 
 | # | Problem | Difficulty | Topic | File |
 |---|---------|------------|-------|------|
+| 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/) | Easy | KMP, String Matching | [leetcode_28.c](./solved_leetcode/leetcode_28.c) |
+| 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | Easy | Hash Table, Array, Counting | [leetcode_242.c](./solved_leetcode/leetcode_242.c) |
 | 486 | [Predict the Winner](https://leetcode.com/problems/predict-the-winner/description/) | Medium | Array, Dynamic Programming, Recursion, Minimax | [486_predict_the_winner.c](./solved_leetcode/486_predict_the_winner.c)
 | 1386 | [Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation/description/) | Medium | Array, Sorting, Bit Manipulation | [1386_cinema_seat_allocation.c](./solved_leetcode/1386_cinema_seat_allocation.c)
 | 2904 | [Shortest and Lexicographically Smallest Beautiful String](https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/) | Medium | String, Sliding Window, Two Pointers, Substring, Lexicographical Order | [leetcode_2904.c](./solved_leetcode/leetcode_2904.c)

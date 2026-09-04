@@ -1,0 +1,54 @@
+I need you to generate a formatted entry for my LeetCode solutions repository.
+
+**My inputs:**
+- LeetCode question number: [PASTE YOUR NUMBER HERE]
+- Filename: [PASTE YOUR FILENAME HERE, e.g., leetcode_28.c]
+- Code: I have **attached the source code file** to this message. If you cannot find the attachment, please ask me to paste it.
+
+**Your task:**
+- Read the attached file content (the full source code) from my message.
+- If no file is attached and no code is pasted, stop and ask me to attach it.
+- If the file is attached but you cannot read it, prompt me to paste the code directly.
+
+**Output format:**
+You must output exactly **one thing** – a single Markdown code block (fenced with ```markdown ... ```) that contains:
+
+1. A Markdown table row in this exact format:
+   `| {num} | [{title}](https://leetcode.com/problems/{slug}/description/) | {difficulty} | {topics} | [{filename}](./solved_leetcode/{filename}) |`
+
+2. A code block (with the language tag inferred from the filename extension) containing my provided code, but with a comment header prepended at the very top. The header must follow this structure:
+   /*
+   Problem: Leetcode {num}. {title}
+   Leetcode Daily for {date}  (only if you know the exact date, otherwise omit this line)
+   Difficulty: {difficulty}
+   Topics: {topics}
+
+   Solution:
+   {Write a clear, concise explanation of the algorithm used, based on my code – cover the main idea, key steps, and why it works.}
+
+   Time: O(...) – {brief justification}
+   Space: O(...) – {brief justification}
+   */
+
+The entire output must be wrapped in a single ```markdown code fence so that I can copy it directly and paste it into my README.md without losing any formatting or links.
+
+**Rules and instructions:**
+- **Title, slug, and difficulty** – infer these from the given LeetCode number using your knowledge.
+- **Topics** – **MUST** be derived **exclusively and directly from the user's provided source code**. Examine the code to identify the specific algorithm, data structures, techniques, and paradigms it actually uses (e.g., `Two Pointers`, `Hash Map`, `Binary Search`, `Sliding Window`, `KMP`, `DFS`, `Dynamic Programming`, `Recursion`, `Greedy`, `Stack`, `Queue`, `Bit Manipulation`, `Sorting`, `Heap`, `Trie`, `Union Find`, `Monotonic Stack`, `BFS`, etc.). **Do NOT copy the generic topic tags from the LeetCode problem page** – only list what the user's solution implements. If multiple techniques are present, list all of them.
+- The date for the LeetCode Daily is optional – if you don't know it, omit that line completely.
+- The explanation must be derived from the logic of the code I provide – do not copy generic problem descriptions.
+- The time and space complexity must be stated with a short reason (e.g., "each character is visited once").
+
+**CRITICAL – Code preservation rule:**
+- You must **NOT** change, alter, reformat, re-indent, rename, or modify **any** part of my provided solution code except for prepending the required comment header exactly at the very top of the code block.
+- Preserve all original spaces, tabs, line breaks, comments (including trailing comments), variable names, function signatures, and logic exactly as given.
+- Do not add, remove, or replace any character in my original source code beyond placing the header before it.
+
+**CRITICAL – Input validation rule:**
+- Before generating the output, you **MUST** check if my provided inputs are consistent and correct.
+- Verify that the LeetCode question number matches the problem that the code actually solves (e.g., if the code is `strStr` for substring search, the number should be 28, not 29).
+- Check that the filename extension matches the language of the code (e.g., `.c` for C code, `.py` for Python, `.java` for Java, etc.).
+- Also verify that the topics you infer from the code are consistent with the problem – e.g., if the code implements a specific algorithm like KMP, that is fine, but the problem number must still correspond to the expected problem (the assistant should not assign a KMP topic to a problem that is actually about something else if the code is clearly mismatched, but the primary check is that the code solves the given problem number).
+- If you detect any mismatch, ambiguity, or likely error (like wrong question number, wrong file extension, code that doesn't match the problem description), **do NOT generate the entry**. Instead, stop and clearly explain the issue, ask for clarification, and request corrected inputs before proceeding.
+
+Now, I have attached my code file. Please read it and generate the entry.
