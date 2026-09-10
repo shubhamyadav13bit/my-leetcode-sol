@@ -3,8 +3,8 @@ All my Leetcode code written in C (Only language i know) dumped here to familiar
 
 # My LeetCode Solutions in C
 
-> Last Updated: 8 Sept, 2026
-> | Solved Problems here: 8 | Solved Quest Problems here: 1
+> Last Updated: 10 Sept, 2026
+> | Solved Problems here: 9 | Solved Quest Problems here: 1
 > | Unsolved Problems here: 2 | Unsolved Quest Problems here: 1
 
 ---
@@ -17,6 +17,7 @@ All my Leetcode code written in C (Only language i know) dumped here to familiar
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | Easy | Hash Table, Array, Counting | [leetcode_242.c](./solved_leetcode/leetcode_242.c) |
 | 486 | [Predict the Winner](https://leetcode.com/problems/predict-the-winner/description/) | Medium | Array, Dynamic Programming, Recursion, Minimax | [486_predict_the_winner.c](./solved_leetcode/486_predict_the_winner.c)
 | 1386 | [Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation/description/) | Medium | Array, Sorting, Bit Manipulation | [1386_cinema_seat_allocation.c](./solved_leetcode/1386_cinema_seat_allocation.c)
+| 2265 | [Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/description/) | Medium | DFS, Recursion, Binary Tree, Post-order Traversal | [leetcode_2265.c](./solved_leetcode/leetcode_2265.c) |
 | 2904 | [Shortest and Lexicographically Smallest Beautiful String](https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/) | Medium | String, Sliding Window, Two Pointers, Substring, Lexicographical Order | [leetcode_2904.c](./solved_leetcode/leetcode_2904.c)
 | 3870 | [Count Commas](https://leetcode.com/problems/count-commas-in-range/description/) | Easy | Math | [leetcode_3870.c](./solved_leetcode/leetcode_3870.c) |
 | 3903 | [Smallest Stable Index I](https://leetcode.com/problems/smallest-stable-index-i/description/) | Easy | Arrays, Prefix Maximum, Suffix Minimum | [leetcode_3903.c](./solved_leetcode/leetcode_3903.c) |
