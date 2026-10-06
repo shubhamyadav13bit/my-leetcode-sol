@@ -45,6 +45,6 @@ All my Leetcode code written in C or Python dumped here to familiarize with Gith
 ## Attempted Leetcode Problems (Sorted by #)
 | # | Problem | Difficulty | Topic | File |
 |---|---------|------------|-------|------|
-| 1190 | [Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/description/) | Medium | Stack, String, Simulation | [leetcode_1190.py](./solved_leetcode/leetcode_1190.py) |
+| 1190 | [Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/description/) | Medium | Stack, String, Simulation | [leetcode_1190.py](./attempted_leetcode/leetcode_1190.py) |
 | 2029 | [Stone Game IX](https://leetcode.com/problems/stone-game-ix/) | Medium | Array, Counting, Greedy, Math | [2029_stone_game_ix.c](./attempted_leetcode/2029_stone_game_ix.c)
 | 2958 | [Length of Longest Subarray With at Most K Frequency](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/) | Medium | Array, Hash table, Sliding window | [leetcode_2958.c](./attempted_leetcode/leetcode_2958.c)
