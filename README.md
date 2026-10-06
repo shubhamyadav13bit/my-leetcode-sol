@@ -3,9 +3,9 @@ All my Leetcode code written in C or Python dumped here to familiarize with Gith
 
 # My LeetCode Solutions in C or Python
 
-> Last Updated: 26 Sept, 2026
-> | Solved Problems here: 11 | Solved Quest Problems here: 1
-> | Unsolved Problems here: 2 | Unsolved Quest Problems here: 1
+> Last Updated: 6 Oct, 2026
+> | Solved Problems here: 12 | Solved Quest Problems here: 1
+> | Unsolved Problems here: 3 | Unsolved Quest Problems here: 1
 
 ---
 
@@ -17,6 +17,7 @@ All my Leetcode code written in C or Python dumped here to familiarize with Gith
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | Easy | Hash Table, Array, Counting | [leetcode_242.c](./solved_leetcode/leetcode_242.c) |
 | 486 | [Predict the Winner](https://leetcode.com/problems/predict-the-winner/description/) | Medium | Array, Dynamic Programming, Recursion, Minimax | [486_predict_the_winner.c](./solved_leetcode/486_predict_the_winner.c)
 | 835 | [Image Overlap](https://leetcode.com/problems/image-overlap/description/) | Medium | Recursion, DFS, Memoization, Matrix | [leetcode_835.c](./solved_leetcode/leetcode_835.c) |
+| 921 | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/description/) | Medium | Stack, String | [leetcode_921.py](./solved_leetcode/leetcode_921.py) |
 | 1386 | [Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation/description/) | Medium | Array, Sorting, Bit Manipulation | [1386_cinema_seat_allocation.c](./solved_leetcode/1386_cinema_seat_allocation.c)
 | 1807 | [Evaluate the Bracket Pairs of a String](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/description/) | Medium | Hash Map, String, Simulation | [leetcode_1807.py](./solved_leetcode/leetcode_1807.py) |
 | 2265 | [Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/description/) | Medium | DFS, Recursion, Binary Tree, Post-order Traversal | [leetcode_2265.c](./solved_leetcode/leetcode_2265.c) |
@@ -44,5 +45,6 @@ All my Leetcode code written in C or Python dumped here to familiarize with Gith
 ## Attempted Leetcode Problems (Sorted by #)
 | # | Problem | Difficulty | Topic | File |
 |---|---------|------------|-------|------|
+| 1190 | [Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/description/) | Medium | Stack, String, Simulation | [leetcode_1190.py](./solved_leetcode/leetcode_1190.py) |
 | 2029 | [Stone Game IX](https://leetcode.com/problems/stone-game-ix/) | Medium | Array, Counting, Greedy, Math | [2029_stone_game_ix.c](./attempted_leetcode/2029_stone_game_ix.c)
 | 2958 | [Length of Longest Subarray With at Most K Frequency](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/) | Medium | Array, Hash table, Sliding window | [leetcode_2958.c](./attempted_leetcode/leetcode_2958.c)
