@@ -3,8 +3,8 @@ All my Leetcode code written in C or Python dumped here to familiarize with Gith
 
 # My LeetCode Solutions in C or Python
 
-> Last Updated: 6 Oct, 2026
-> | Solved Problems here: 12 | Solved Quest Problems here: 1
+> Last Updated: 12 Oct, 2026
+> | Solved Problems here: 13 | Solved Quest Problems here: 1
 > | Unsolved Problems here: 3 | Unsolved Quest Problems here: 1
 
 ---
@@ -21,6 +21,7 @@ All my Leetcode code written in C or Python dumped here to familiarize with Gith
 | 1386 | [Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation/description/) | Medium | Array, Sorting, Bit Manipulation | [1386_cinema_seat_allocation.c](./solved_leetcode/1386_cinema_seat_allocation.c)
 | 1807 | [Evaluate the Bracket Pairs of a String](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/description/) | Medium | Hash Map, String, Simulation | [leetcode_1807.py](./solved_leetcode/leetcode_1807.py) |
 | 2265 | [Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/description/) | Medium | DFS, Recursion, Binary Tree, Post-order Traversal | [leetcode_2265.c](./solved_leetcode/leetcode_2265.c) |
+| 2897 | [Apply Operations on Array to Maximize Sum of Squares](https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/description/) | Hard | Bit Manipulation, Greedy, Math | [leetcode_2987.py](./solved_leetcode/leetcode_2897.py) |
 | 2904 | [Shortest and Lexicographically Smallest Beautiful String](https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/) | Medium | String, Sliding Window, Two Pointers, Substring, Lexicographical Order | [leetcode_2904.c](./solved_leetcode/leetcode_2904.c)
 | 3870 | [Count Commas](https://leetcode.com/problems/count-commas-in-range/description/) | Easy | Math | [leetcode_3870.c](./solved_leetcode/leetcode_3870.c) |
 | 3903 | [Smallest Stable Index I](https://leetcode.com/problems/smallest-stable-index-i/description/) | Easy | Arrays, Prefix Maximum, Suffix Minimum | [leetcode_3903.c](./solved_leetcode/leetcode_3903.c) |
